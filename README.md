@@ -2,7 +2,7 @@
 
 This is a simple portfolio website created using HTML and CSS. It includes a Home Page to introduce myself and a Contact Page for visitors to reach out. The goal of this project is to showcase my web development skills with a clean and minimal design.
 
-**Features**
+📋 **Features**
 **Home Page:** Brief introduction about me, my skills, and a summary of my work.
 
 **Contact Page:** A simple form or link to connect via email and social media.
@@ -15,7 +15,8 @@ This is a simple portfolio website created using HTML and CSS. It includes a Hom
 
 **CSS:** To style the layout and design elements
 
-**Project Structure:**
+.
+📂 **Project Structure:**
 
 /portfolio-website  
 │  
@@ -31,7 +32,7 @@ This is a simple portfolio website created using HTML and CSS. It includes a Hom
 ├── style.css        # CSS file for styling  
 └── README.md        # Documentation file  
 
-**Contributions:**
+🙌 **Contributions:**
 
 Feel free to fork the repository and create pull requests for enhancements or bug fixes. Suggestions are always welcome!
 
