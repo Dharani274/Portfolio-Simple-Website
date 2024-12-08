@@ -15,7 +15,6 @@ This is a simple portfolio website created using HTML and CSS. It includes a Hom
 
 **CSS:** To style the layout and design elements
 
-.
 📂 **Project Structure:**
 
 /portfolio-website  
