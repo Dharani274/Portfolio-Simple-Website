@@ -3,11 +3,14 @@ This is a simple portfolio website created using HTML and CSS. It includes a Hom
 
 **Features**
 **Home Page:** Brief introduction about me, my skills, and a summary of my work.
+
 **Contact Page:** A simple form or link to connect via email and social media.
+
 **Responsive Design:** Ensures compatibility across devices.
 
 🛠️ **Technologies Used**
 **HTML5:** To create the structure of the website.
+
 **CSS:** To style the layout and design elements
 
 **Project Structure**
