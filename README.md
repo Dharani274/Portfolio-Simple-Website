@@ -8,18 +8,13 @@ This is a simple portfolio website created using HTML and CSS. It includes a Hom
 
 **Responsive Design:** Ensures compatibility across devices.
 
-🛠️ **Technologies Used**
+🛠️ **Technologies Used:**
+
 **HTML5:** To create the structure of the website.
 
 **CSS:** To style the layout and design elements
 
-**Project Structure**
-/portfolio-website  
-│  
-├── index.html       # Home page  
-├── contact.html     # Contact page  
-├── style.css        # CSS file for styling  
-└── README.md        # Documentation file  
+**Project Structure:**
 
 /portfolio-website  
 │  
@@ -28,7 +23,15 @@ This is a simple portfolio website created using HTML and CSS. It includes a Hom
 ├── style.css        # CSS file for styling  
 └── README.md        # Documentation file  
 
-**Contributions**
+/portfolio-website  
+│  
+├── index.html       # Home page  
+├── contact.html     # Contact page  
+├── style.css        # CSS file for styling  
+└── README.md        # Documentation file  
+
+**Contributions:**
+
 Feel free to fork the repository and create pull requests for enhancements or bug fixes. Suggestions are always welcome!
 
 Thank you for visiting my portfolio webpage!
